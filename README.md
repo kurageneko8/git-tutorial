@@ -1,4 +1,5 @@
 # Git chutorial
 
- 
- - fix b
+ - feature-A
+ - fix B
+ - feature-C
